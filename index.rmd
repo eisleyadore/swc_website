@@ -1,0 +1,8 @@
+---
+title: "homepage"
+author: "Eisley Adoremos"
+date: "August 15, 2018"
+output: html_document
+---
+
+This is the loading page for the webpage.
